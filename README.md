@@ -2,7 +2,7 @@
 
 ### Business Intelligence and Sales Analytics Dashboard Using Microsoft Excel
 
-![Dashboard Preview](Data_Intelligence_Dashboard.jpg)
+![Dashboard Preview]("C:\Users\mansi\Downloads\Data_Intelligence_Dashboard.jpg")
 
 ---
 
